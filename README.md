@@ -10,6 +10,7 @@
     <a href="https://www.linkedin.com/in/developer-kaiqueg/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
     <a href="https://api.whatsapp.com/send?phone=5518997855948&text=Ol%C3%A1!"><img src="https://img.shields.io/badge/Whatsapp-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>
     <a href="mailto:developerkaique@gmail.com"><img src="https://img.shields.io/badge/Email-0088cc?style=flat&logo=telegram" /></a>
+    <a href="https://www.instagram.com/kaiqueg.dev/"><img src="https://img.shields.io/badge/Instagram-8a3ab9?style=flat&logo=instagram" /></a>
 </div>
 
 <h1 align="center">Sobre mim 😎</h1>
