@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="GitHub.png" height="200" />
+    <img src="default-white.png" height="200" />
 </div>
 <div align="center">
     <p align="center">
