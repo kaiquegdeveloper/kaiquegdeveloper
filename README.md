@@ -22,7 +22,7 @@
 
 **Dentre minhas soft-skills, tenho perfíl de liderança, um conhecimento substâncial em Marketing e Tráfego, GTag Manager e Analytics.**
 
-* 🔭 **Atualmente trabalho na**: Yesdev.
+* 🔭 **Atualmente trabalho na**: `Yesdev`.
 * 🌱 **Atualmente estudando**: `postgresql`.
 * 💬 **Especialidade**: `PHP`.
 
@@ -33,10 +33,10 @@
 ```json
 {
     "skills": [
-        "PHP",                   "POO",    "SQLite",          "PSR's",
-        "Laravel",           "Eloquent",                     "React.js",                "Design Patterns",
-        "TDD",     "MySQL",                 "Next.js",    "JSON Web Token (JWT)",
-        "Teste unitário",                  "Git",                                  "Unix / Linux",             "Clean Code"
+        "PHP",                   "POO",                "SQLite",                 "PSR's",
+        "Laravel",               "Eloquent",           "React.js",               "Design Patterns",
+        "TDD",                   "MySQL",              "Next.js",                "API RESTful",
+        "Teste unitário",        "Git",                "Unix / Linux",           "Clean Code"
     ]
 }
 ```
