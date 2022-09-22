@@ -23,7 +23,7 @@
 
 **Dentre minhas soft-skills, tenho perfíl de liderança, um conhecimento substâncial em Marketing e Tráfego, GTag Manager e Analytics.**
 
-* 🔭 **Atualmente trabalho na**: `Yesdev`.
+* 🔭 **Atualmente trabalho na**: `Kaique G Desenvolvimento`.
 * 🌱 **Atualmente estudando**: `postgresql`.
 * 💬 **Especialidade**: `PHP`.
 
